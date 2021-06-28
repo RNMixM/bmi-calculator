@@ -101,6 +101,7 @@ public class MainActivity extends AppCompatActivity {
             //Display healthy
             fullResultString = bmiTextResult + " - Yay! You are healthy.... now hit the gym!";
         }
+        //This is my result text string. YAY!
         resultText.setText(fullResultString);
     }
 
